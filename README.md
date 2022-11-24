@@ -2,9 +2,9 @@
 
 ### ✔️ 상세 커리큘럼
 #### 1주차 | OT & 플랫폼
-##### 오리엔테이션, 플랫폼이란? 개발자로서의 자세, Info.Plist, Layout 학습 및 Front-end 를 다루기  
+###### 오리엔테이션, 플랫폼이란? 개발자로서의 자세, Info.Plist, Layout 학습 및 Front-end 를 다루기  
 #### 2주차 | Life Cycle 
-##### 본격적인 프로그래밍을 진행하기 전, 생명주기를 이해하고 활용법을 숙지하는 단계  
+###### 본격적인 프로그래밍을 진행하기 전, 생명주기를 이해하고 활용법을 숙지하는 단계  
 #### 3주차 | Table View - TableView 의 이해와 토론을 바탕으로 Protocol, Delegate 패턴의 개념을 학습하며, 실습을 통한 TableView 프로그래밍 진행  
 #### 4주차 | Multi-Thread - Multi-Thread 에 대한 토론 및 실습을 통해 쓰레드 프로그래밍을 학습  
 #### 5주차 | Network Intro & API - 개괄적인 서버 와 클라이언트 개요,HTTP 프로토콜에 대한 이해 및 API에 대한 이해 및 학습을 통한 서버 통신을 학습  
