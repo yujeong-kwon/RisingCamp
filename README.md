@@ -1,7 +1,7 @@
 # 라이징캠프 10기 with 컴공선배
 
 ### 📝 상세 커리큘럼
-#### [1주차 | OT & 플랫폼](https://github.com/yujeong-kwon/RisingCamp/commit/0c15c3853376eadb174afeaf412a5030733a3dfd)
+#### [1주차 | OT & 플랫폼](https://github.com/yujeong-kwon/RisingCamp/tree/main/RC_week1-3)
 ###### 오리엔테이션, 플랫폼이란? 개발자로서의 자세, Info.Plist, Layout 학습 및 Front-end 를 다루기  
 #### 2주차 | Life Cycle 
 ###### 본격적인 프로그래밍을 진행하기 전, 생명주기를 이해하고 활용법을 숙지하는 단계  
