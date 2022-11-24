@@ -1,6 +1,6 @@
 # RisingCamp 10기 with 컴공선배
 
-### ✔️ 상세 커리큘럼
+### 📝 상세 커리큘럼
 #### 1주차 | OT & 플랫폼
 ###### 오리엔테이션, 플랫폼이란? 개발자로서의 자세, Info.Plist, Layout 학습 및 Front-end 를 다루기  
 #### 2주차 | Life Cycle 
