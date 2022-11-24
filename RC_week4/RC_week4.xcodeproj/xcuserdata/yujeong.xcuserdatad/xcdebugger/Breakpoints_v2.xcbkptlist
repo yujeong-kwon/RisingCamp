@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "19CA370D-81DF-4E39-8D43-6E462013EEC7"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ACCFDA74-5F64-4C5C-9C5F-C6DC32D3C6D2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RC_week4/New Group/Model/Animal.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "delete(name:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "ACCFDA74-5F64-4C5C-9C5F-C6DC32D3C6D2 - 9bf8102a3ac96724"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RC_week4.SettingAnimal.delete(name: Swift.String) -&gt; ()"
+                  moduleName = "RC_week4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yujeong/RisingCampIOS/RC_week4/RC_week4/New%20Group/Model/Animal.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "294">
+               </Location>
+               <Location
+                  uuid = "ACCFDA74-5F64-4C5C-9C5F-C6DC32D3C6D2 - 9bf8102a3ac96724"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RC_week4.SettingAnimal.delete(name: Swift.String) -&gt; ()"
+                  moduleName = "RC_week4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yujeong/RisingCampIOS/RC_week4/RC_week4/New%20Group/Model/Animal.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "480">
+               </Location>
+               <Location
+                  uuid = "ACCFDA74-5F64-4C5C-9C5F-C6DC32D3C6D2 - c0f3a9cf512f0df9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (RC_week4.Setting) -&gt; Swift.Bool in RC_week4.SettingAnimal.delete(name: Swift.String) -&gt; ()"
+                  moduleName = "RC_week4"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yujeong/RisingCampIOS/RC_week4/RC_week4/New%20Group/Model/Animal.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "51">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
