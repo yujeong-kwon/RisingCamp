@@ -4,20 +4,19 @@
 
 ### 💻 구현할 화면 및 기능
 > 쿠팡 홈화면만 구현  
-> <img width="30%" src="[https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c36874c3-5441-494a-aaf0-58cd288fc28f/DCEF6084-0996-4CB8-80B3-E43140A19E15_1_102_o.jpeg](https://user-images.githubusercontent.com/94073724/204600235-36a7f762-5de1-4635-9580-cd9585ebcb90.jpeg)"/>
+> <img width="30%" src="https://user-images.githubusercontent.com/94073724/204600235-36a7f762-5de1-4635-9580-cd9585ebcb90.jpeg"/>
 
 ### 🛠 사용한 컴포넌트
-> - View Controller
-> - Tab Bar Controller
-> - Tab Bar Item
-> - View
-> - Scroll View
-> - Search View
-> - Stack View
-> - ImageView
-> - Label
-> - Page Control
-> - Button
+> View Controller
+> Tab Bar Controller, Tab Bar Item
+> UIView
+> Scroll View
+> Search View
+> UIStack View
+> UIImageView
+> UILabel
+> Page Control
+> UIButton
 
 ### 📱시연 영상
 
