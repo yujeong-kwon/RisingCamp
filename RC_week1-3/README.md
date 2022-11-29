@@ -3,20 +3,20 @@
 - 기간 | 22.09.17 ~ 22.09.23
 
 ### 💻 구현할 화면 및 기능
-> 쿠팡 홈화면만 구현  
+> 쿠팡 홈화면     
 > <img width="30%" src="https://user-images.githubusercontent.com/94073724/204600235-36a7f762-5de1-4635-9580-cd9585ebcb90.jpeg"/>
 
 ### 🛠 사용한 컴포넌트
-> View Controller
-> Tab Bar Controller, Tab Bar Item
-> UIView
-> Scroll View
-> Search View
-> UIStack View
-> UIImageView
-> UILabel
-> Page Control
-> UIButton
+> View Controller  
+> Tab Bar Controller, Tab Bar Item   
+> UIView    
+> Scroll View   
+> Search View   
+> UIStack View  
+> UIImageView  
+> UILabel  
+> Page Control    
+> UIButton  
 
 ### 📱시연 영상
 
