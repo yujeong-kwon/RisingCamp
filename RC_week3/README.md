@@ -4,7 +4,7 @@
 - CRUD 기능 포함
 
 ### 💻 구현할 화면 및 기능
-> <img width="50%" src="https://user-images.githubusercontent.com/94073724/205303944-a6c6b194-ae44-4f5e-b8b6-14434a88295e.jpeg"/> <img width="50%" src="https://user-images.githubusercontent.com/94073724/205303958-3cc35069-76a5-4651-b189-6661dbd9b8e0.png"/>
+> <img width="40%" src="https://user-images.githubusercontent.com/94073724/205303944-a6c6b194-ae44-4f5e-b8b6-14434a88295e.jpeg"/> <img width="40%" src="https://user-images.githubusercontent.com/94073724/205303958-3cc35069-76a5-4651-b189-6661dbd9b8e0.png"/>
 
 ### 🛠 사용한 컴포넌트
 > View   
