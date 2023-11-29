@@ -12,22 +12,22 @@ protocol SwitchOffDelegate{
     func switchChange(index: Int, switchIs: Bool)
 }
 class MainTableViewCell: UITableViewCell {
-
+    private var service: SettingService = SettingService.shared
     var switchOffDelegate: SwitchOffDelegate?
     var Index: Int = 0
     
     @IBOutlet weak var cellTitleLabel: UILabel!
     
-    @IBOutlet weak var `switch`: UISwitch!
+    @IBOutlet weak var switchBtn: UISwitch!
     
     
     @IBAction func switchChanged(_ sender: UISwitch) {
-        if self.switch.isOn{
-            self.switchOffDelegate?.switchChange(index: Index, switchIs: true)
-        }else{
-            self.switchOffDelegate?.switchChange(index: Index, switchIs: false)
-        }
-        
+        //if switchBtn.isOn{
+            //self.switchOffDelegate?.switchChange(index: Index, switchIs: true)
+       // }else{
+            //self.switchOffDelegate?.switchChange(index: Index, switchIs: false)
+       // }
+        service.settingList[Index].onOff = switchBtn.isOn
     }
     override func awakeFromNib() {
         super.awakeFromNib()
@@ -40,11 +40,11 @@ class MainTableViewCell: UITableViewCell {
     
     public func get(data: Setting) {
         cellTitleLabel.text = data.name
-        self.switch.isOn = data.onOff
+        switchBtn.isOn = data.onOff
     }
     
     override func prepareForReuse() {
         super.prepareForReuse()
-        //self.switch.isOn = true
+        switchBtn.isOn = true
     }
 }
