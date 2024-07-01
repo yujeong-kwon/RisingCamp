@@ -3,7 +3,8 @@
 ✔️ 설명 | 멀티스레드를 이용하여 게임 클론 코딩
 
 ### 💻 구현할 화면 및 기능
-> <img width="40%" src="https://github.com/yujeong-kwon/RisingCamp/assets/94073724/aa069889-f946-40c4-bda4-4330c3a015eb.png"/> <img width="40%" src="https://github.com/yujeong-kwon/RisingCamp/assets/94073724/aa069889-f946-40c4-bda4-4330c3a015eb.png"/>
+> <img width="40%" src="https://github.com/yujeong-kwon/RisingCamp/assets/94073724/aa069889-f946-40c4-bda4-4330c3a015eb.png"/>   <img width="40%" src="https://github.com/yujeong-kwon/RisingCamp/assets/94073724/149c8ca7-cd32-4ae0-b6b4-6b374c09d2b9.png"/>
+
 > * 게임 주요 설명
 >   - 동물들이 온천을 이용하고 지불하는 도토리로 온천을 운영하는 방치형 경영게임
 >   - 모은 도토리로 시설물을 배치하고 목욕용품을 구비한다
