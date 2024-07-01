@@ -9,5 +9,5 @@
 ### 📱 시연 영상
 > https://drive.google.com/file/d/1cQPyhs41HaXCZS3xLYuYik5i3jReCJdw/view?usp=sharing 
 
-### 🔗 블로그(상세 설명)
-> https://dneod.tistory.com/33
+### 🔗 블로그 정리
+> 
