@@ -3,8 +3,8 @@
 ✔️ 설명 | 멀티스레드를 이용하여 게임 클론 코딩
 
 ### 💻 구현할 화면 및 기능
-> <img width="40%" src="https://github.com/yujeong-kwon/RisingCamp/assets/94073724/aa069889-f946-40c4-bda4-4330c3a015eb
-"/>
+> <img width="40%" src="https://github.com/yujeong-kwon/RisingCamp/assets/94073724/aa069889-f946-40c4-bda4-4330c3a015eb.png"/>
+
 
 ### 📱 시연 영상
 > https://drive.google.com/file/d/1cQPyhs41HaXCZS3xLYuYik5i3jReCJdw/view?usp=sharing 
