@@ -6,7 +6,7 @@
 > 소셜로그인 기능을 구현한다 (카카오 로그인 API 적용) 
 
 ### 📱 시연 영상
-> https://drive.google.com/file/d/1cQPyhs41HaXCZS3xLYuYik5i3jReCJdw/view?usp=sharing 
+> https://drive.google.com/file/d/128PDPvq0TX2cwwuVAuzvMp9wXey95oWx/view?usp=sharing 
 
 ### 🔗 블로그 정리
 > 
