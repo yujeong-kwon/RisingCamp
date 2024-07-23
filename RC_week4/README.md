@@ -32,7 +32,5 @@
 >
 
 ### 📱 시연 영상
-> https://drive.google.com/file/d/1cQPyhs41HaXCZS3xLYuYik5i3jReCJdw/view?usp=sharing 
+> https://drive.google.com/file/d/18B0UH_6j1APNnpLcLbyJvnevj3IOlmBv/view?usp=sharing   
 
-### 🔗 블로그 정리
-> 
