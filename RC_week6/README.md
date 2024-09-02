@@ -15,4 +15,4 @@
 ><img width="40%" alt="스크린샷_2021-07-23_오전_10 44 49" src="https://github.com/yujeong-kwon/RisingCamp/assets/94073724/2165d08d-127f-4eea-9283-3755b8460bf9">
 
 ### 📱 시연 영상
-> [https://drive.google.com/file/d/1cQPyhs41HaXCZS3xLYuYik5i3jReCJdw/view?usp=sharing
+> [[https://drive.google.com/file/d/1cQPyhs41HaXCZS3xLYuYik5i3jReCJdw/view?usp=sharing](https://drive.google.com/file/d/16eAfiwz_eTDW6QzwpwSJJwlFzoxJgutL/view?usp=sharing)
